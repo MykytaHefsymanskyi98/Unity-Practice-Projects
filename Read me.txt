@@ -1,5 +1,5 @@
 The projects in this archive do not have any commercial purpose. They are used for practice only.
-Part of assets (sprites, music) that are used in those projects have been made by third parties. Sources:
+Part of the assets (sprites, music) that are used in those projects have been made by third parties. Sources:
 - https://kenney.nl/assets?s=space+shooter
 - https://www.glitchthegame.com/downloads/
 - https://assetstore.unity.com/packages/2d/environments/super-platformer-assets-42013
